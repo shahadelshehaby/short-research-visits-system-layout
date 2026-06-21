@@ -7,7 +7,7 @@
 > **Version:** 1.0  
 > **Date:** June 2026  
 > **Prepared by:** Research Affairs  
-> **Audience:** IT Dept
+> **Audience:** IT Dept  
 > **Classification:** Confidential — Internal Use Only  
 > **Reference PRD:** SRVS PRD v1.0
 ---
